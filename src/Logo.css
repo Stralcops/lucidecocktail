@@ -1,0 +1,19 @@
+.logo-container {
+  position: absolute;
+  width: 100px;
+  height: 100px; 
+}
+
+.logo-container svg {
+  stroke: white; /* ou une autre couleur de ton choix */
+  stroke-width: 5; /* ajuste la largeur du trait selon tes besoins */
+  fill: white; /* Assure que l'intérieur des formes n'est pas rempli */
+}
+.path{
+  fill: transparent;
+}
+
+.logo-svg {
+  width: 100%;
+  height: 100%;
+}
